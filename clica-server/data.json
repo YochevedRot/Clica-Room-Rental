@@ -1,0 +1,79 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "אולם פעילות גדול",
+      "type": "hall",
+      "capacity": 120,
+      "hourlyRate": 350,
+      "amenities": [
+        "מקרן",
+        "מערכת הגברה",
+        "מיזוג",
+        "כסאות ושולחנות"
+      ],
+      "location": "בניין A, קומה 1",
+      "imageUrl": "/images/hall.jpg"
+    },
+    {
+      "id": 2,
+      "name": "חדר ישיבות A",
+      "type": "meeting",
+      "capacity": 12,
+      "hourlyRate": 120,
+      "amenities": [
+        "מסך 65\"",
+        "לוח מחיק",
+        "HDMI"
+      ],
+      "location": "בניין B, קומה 3",
+      "imageUrl": "/images/meeting-a.jpg"
+    },
+    {
+      "id": 3,
+      "name": "סטודיו רב-תכליתי",
+      "type": "studio",
+      "capacity": 25,
+      "hourlyRate": 180,
+      "amenities": [
+        "רצפת עץ",
+        "מראות",
+        "מזגן"
+      ],
+      "location": "מרכז ספורט, קומה 2",
+      "imageUrl": "/images/studio.jpg"
+    },
+    {
+      "id": 4,
+      "name": "חדר כינוסים",
+      "description": "...",
+      "cost": null
+    }
+  ],
+  "appointments": [
+    {
+      "id": 1,
+      "service": "חדר ישיבות A",
+      "dateTime": "2024-02-02T22:00:00.000Z",
+      "name": "יוכבד רוט",
+      "phone": "0527143637"
+    },
+    {
+      "id": 2,
+      "service": "סטודיו רב-תכליתי",
+      "dateTime": "2024-02-09T22:00:00.000Z",
+      "name": "שושנה לוי",
+      "phone": "0527143637"
+    }
+  ],
+  "businessData": {
+    "name": "קליקה",
+    "address": "מודיעין עילית",
+    "phone": "03-1234567",
+    "email": "info@room-center.co.il"
+  },
+  "admin": {
+    "username": "admin",
+    "password": "1234"
+  }
+}
