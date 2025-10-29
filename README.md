@@ -85,11 +85,11 @@ node server.js
 ---
 
 ## 🧭 Usage
+- 🌐 **User site:** [http://localhost:5173](http://localhost:5173)  
+- 🕒 **Book meetings** or browse rooms  
+- 🔑 **Admin panel:** [http://localhost:5173/admin](http://localhost:5173/admin)  
+- 👤 **Login credentials:** admin / 1234  
 
-🌐 Access http://localhost:5173 - for the user site
-🕒 Book a meeting or browse rooms
-🔑 Access http://localhost:5173/admin - for admin panel
-👤 Log in with admin / 1234 to manage rooms, services, and meetings
 
 ---
 
