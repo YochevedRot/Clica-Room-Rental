@@ -96,4 +96,4 @@ node server.js
  ## 🔒 License
 This project is private and may not be copied, modified, or redistributed without explicit permission from the author.
 
-<p align="center">Made with ❤️ by <a href="https://github.com/YochevedRot">Yocheved Rot</a></p> ```
+<p align="center">Made with ❤️ by <a href="https://github.com/YochevedRot">Yocheved Rot</a></p> 
