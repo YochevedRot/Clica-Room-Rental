@@ -77,7 +77,7 @@ Password: 1234
 ```bash
 cd ../clica-server
 npm install
-node server.js
+npm start
 ```
 
 ---
