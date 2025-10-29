@@ -34,7 +34,6 @@ The admin has a private dashboard (accessible by adding `/admin` to the URL) for
 - **State Management:** 🧭 MobX  
 - **UI Library:** 🎨 Material UI (MUI)  
 - **Date Management:** 🗓️ Day.js  
-- **Authentication:** 🔐 JWT (JSON Web Tokens)  
 
 ---
 
