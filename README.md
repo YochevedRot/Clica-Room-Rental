@@ -56,6 +56,7 @@ The admin has a private dashboard (accessible by adding `/admin` to the URL) for
 git clone https://github.com/YochevedRot/Clica-Room-Rental.git
 cd Clica-Room-Rental
 ```
+
 #### 2️⃣ Install client dependencies and run
 ```bash
 cd clica-client
@@ -64,6 +65,7 @@ npm run dev
 ```
 This will launch the user-facing site at:
 👉 http://localhost:5173
+
 #### 3️⃣ Access the admin panel
 To enter the admin dashboard, add /admin to the URL:
 👉 http://localhost:5173/admin
@@ -73,6 +75,7 @@ Login credentials:
 Username: admin  
 Password: 1234
 ```
+
 #### 4️⃣ Setup and run the server
 ```bash
 cd ../clica-server
