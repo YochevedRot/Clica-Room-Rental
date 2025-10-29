@@ -53,7 +53,7 @@ The admin has a private dashboard (accessible by adding `/admin` to the URL) for
 
 #### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/yourusername/Clica-Room-Rental.git
+git clone https://github.com/YochevedRot/Clica-Room-Rental.git
 cd Clica-Room-Rental
 ```
 #### 2️⃣ Install client dependencies and run
