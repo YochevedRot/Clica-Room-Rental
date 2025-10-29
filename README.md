@@ -66,12 +66,15 @@ npm run dev
 ```
 This will launch the user-facing site at:
 👉 http://localhost:5173
+
 <br/>
 
 #### 3️⃣ Access the admin panel
 To enter the admin dashboard, add /admin to the URL:
 👉 http://localhost:5173/admin
+
 <br/>
+
 Login credentials:
 ```bash
 Username: admin  
