@@ -23,7 +23,7 @@ The admin has a private dashboard (accessible by adding `/admin` to the URL) for
 - 👤 **Admin dashboard** — add, edit, or delete rooms and services  
 - 🏢 **Business management** — update business name and contact information  
 - 🔐 **Admin access** via `/admin` path with username `admin` and password `1234`  
-- ⚙️ **Full-stack architecture** — React + Node.js + Express + SQL Server  
+- ⚙️ **Full-stack architecture** — React + Node.js + Express
 
 ---
 
@@ -31,7 +31,6 @@ The admin has a private dashboard (accessible by adding `/admin` to the URL) for
 
 - **Frontend:** ⚛️ React (Vite)  
 - **Backend:** 🧱 Node.js + Express  
-- **Database:** 🗄️ SQL Server (via `mssql`)  
 - **State Management:** 🧭 MobX  
 - **UI Library:** 🎨 Material UI (MUI)  
 - **Date Management:** 🗓️ Day.js  
