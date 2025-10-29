@@ -64,13 +64,20 @@
       "dateTime": "2024-02-09T22:00:00.000Z",
       "name": "שושנה לוי",
       "phone": "0527143637"
+    },
+    {
+      "id": 3,
+      "service": "אולם פעילות גדול",
+      "dateTime": "2025-10-29T07:04:41.029Z",
+      "name": "שרה כהן",
+      "phone": "0547652341"
     }
   ],
   "businessData": {
     "name": "קליקה",
     "address": "מודיעין עילית",
-    "phone": "03-1234567",
-    "email": "info@room-center.co.il"
+    "phone": "0547653421",
+    "email": "info@clica.co.il"
   },
   "admin": {
     "username": "admin",
