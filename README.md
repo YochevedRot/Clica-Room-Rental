@@ -41,9 +41,9 @@ The admin has a private dashboard (accessible by adding `/admin` to the URL) for
 
 ## 🖼️ Screenshots
 
-| Home Page | Room Details | Admin Dashboard |
+| Home Page | Login | Make Meeting |
 |------------|---------------|----------------|
-| ![Home Page](images/homePage.png) | ![Room Details](images/roomDetails.png) | ![Admin Dashboard](images/adminDashboard.png) |
+| ![Home Page](images/homePage.png) | ![Login](images/login.png) | ![Make Meeting](images/makeMeeting.png) |
 
 <p align="center">
   <a href="https://github.com/YochevedRot/Clica-Room-Rental/tree/main/images">📸 View More Screenshots</a>
